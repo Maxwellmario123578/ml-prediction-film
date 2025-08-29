@@ -10,7 +10,7 @@ from urllib.parse import quote
 import praw 
 
 # Clé API TMDB
-API_KEY = "77685b3df4ce9194b6ccb114ef9530d8"
+API_KEY = ""
 
 # Clés API Reddit
 REDDIT_CLIENT_ID = ""
